@@ -1,0 +1,26 @@
+{
+  "name": "webpack-intro",
+  "version": "0.0.1",
+  "description": "introduction to webpack",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roonyh/webpack-intro.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "arunabherath@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roonyh/webpack-intro/issues"
+  },
+  "homepage": "https://github.com/roonyh/webpack-intro#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "style-loader": "^0.20.1"
+  }
+}
