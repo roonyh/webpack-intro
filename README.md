@@ -7,3 +7,5 @@
 `npm install css-loader --save-dev`
 
 `npm install style-loader --save-dev`
+
+`npm install webpack-dev-server --save-dev`
